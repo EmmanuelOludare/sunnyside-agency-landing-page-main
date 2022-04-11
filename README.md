@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub/sunnysideagencylandingpagemain-HJW9sGfE5)
+- Live Site URL: [live site URL](https://gilded-macaron-cdce16.netlify.app/)
 
 ## My process
 - It was quite hectic and fun at the same time while i was working on the project. I used the Mobile-first workflow which made my work very much easier.I actually thought i couldn't complete the challenge,but i'm happy i did.
