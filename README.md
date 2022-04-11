@@ -27,11 +27,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshot.jpg)
+![](screenshot.png)
 
-![](screenshot2.jpg)
+![](screenshot2.png)
 
-![](screenshot3.jpg)
+![](screenshot3.png)
 
 ### Links
 
